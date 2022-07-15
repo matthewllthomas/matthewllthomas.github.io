@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Dr. Matt Thomas
 ---
 
 # Dr. Matthew Lloyd Thomas
