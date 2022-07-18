@@ -6,7 +6,7 @@ subtitle: Home
 
 # About Me 
 
-<img style="float: left; padding: 5px 10px 10px 0px;" align="left" src="docs/photos/headshot.JPG" alt="Headshot" width = "275" > 
+<img style="float: left; padding: 10px 10px 15px 0px;" align="left" src="docs/photos/headshot.JPG" alt="Headshot" width = "275" > 
 
 I'm Dr. Matthew Thomas (or just Matt), and I'm a Lecturer in Environmental Intelligence at the University of Exeter. I'm also a Visiting Researcher at the MRC Centre for Global Infectious Disease Analysis at Imperial College London, where I work within the HIV inference Group. 
 
