@@ -1,11 +1,10 @@
 ---
 layout: default
-title: Dr. Matt Thomas
+title: Dr. Matthew Thomas
+subtitle: Home
 ---
 
-# Dr. Matthew Lloyd Thomas
-
-## About Me 
+# About Me 
 
 I'm Dr. Matthew Thomas (or just Matt), and I'm a Lecturer in Environmental Intelligence at the University of Exeter. I'm also a Visiting Researcher at the MRC Centre for Global Infectious Disease Analysis at Imperial College London, where I work within the HIV inference Group. 
 
