@@ -16,24 +16,38 @@ SPH001 - Introduction to Statistical Thinking and Data Analysis (Tutorials) - Im
 
 ### 2016-17
 
-<table cellspacing="0" cellpadding="0">
+<table>
+ <thead>
   <tr>
-    <td>MA10213</td>
-    <td>Business Data Analysis (Labs)</td> 
+   <th style="text-align:left;">2016-17</th>
+   <th style="text-align:left;">MA10213</th>
+   <th style="text-align:left;">Business Data Analysis (Labs)</th>
   </tr>
+ </thead>
+<tbody>
   <tr>
-    <td></td>
-    <td>Autumn semester, University of Bath</td> 
+   <td style="text-align:left;"></td>
+   <td style="text-align:right;"></td>
+   <td style="text-align:right;">Autumn semester, University of Bath</td>
   </tr>
+</tbody>
+ <thead>
   <tr>
-    <td>MA10214</td>
-    <td>Quantitative Methods (Tutorials)</td> 
+   <th style="text-align:left;"></th>
+   <th style="text-align:left;">MA10214</th>
+   <th style="text-align:left;">Quantitative Methods (Tutorials)</th>
   </tr>
+ </thead>
+<tbody>
   <tr>
-    <td></td>
-    <td>Spring semester, University of Bath</td> 
+   <td style="text-align:left;"></td>
+   <td style="text-align:right;"></td>
+   <td style="text-align:right;">Spring semester, University of Bath</td>
   </tr>
+</tbody>
 </table>
+
+
 
 
 ### 2015-16
