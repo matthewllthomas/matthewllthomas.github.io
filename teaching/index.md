@@ -16,8 +16,9 @@ SPH001 - Introduction to Statistical Thinking and Data Analysis (Tutorials) - Im
 
 ### 2016-17
 
- * MA10213 - Business Data Analysis (Labs) \\ Autumn semester, University of Bath
-
+ * MA10213 - Business Data Analysis (Labs) \newline Autumn semester, University of Bath
+ * MA10213 - Business Data Analysis (Labs)  
+ Autumn semester, University of Bath
 
 <table>
  <thead>
