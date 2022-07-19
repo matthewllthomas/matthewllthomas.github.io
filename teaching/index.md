@@ -16,6 +16,15 @@ SPH001 - Introduction to Statistical Thinking and Data Analysis (Tutorials) - Im
 
 ### 2016-17
 
+\begin{table}
+	\begin{tabular}{c | c}
+		help & me \\
+		\hline
+		do & tables \\
+	\end{tabular}
+\end{table}
+
+
 <table>
  <thead>
   <tr>
