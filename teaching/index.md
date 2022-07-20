@@ -8,9 +8,9 @@ subtitle: Teaching
 
 I am passionate about teaching, and have been lucky to have taught a considerable amount throughout my career to both undergraduate and postgraduate students as well as delivering short courses to public health officials, policy makers and researchers with external partners. I have prepared, planned and delivered content to participants with a range of skills and abilities, both inside and outside of a university environment. 
 
-I am currently part of the team delivering the <a href = "https://www.exeter.ac.uk/postgraduate/taught/datascience/applieddatamsc/">MSc in Applied Data Science and Statistics</a> and am the Programme Director of the new <a href = "https://www.exeter.ac.uk/postgraduate/courses/datascience/envint/">MSc in Environmental Intelligence</a> due to start in October 2023. 
+I am currently part of the team delivering the [MSc in Applied Data Science and Statistics](https://www.exeter.ac.uk/postgraduate/taught/datascience/applieddatamsc/) and am the Programme Director of the new [MSc in Environmental Intelligence](https://www.exeter.ac.uk/postgraduate/courses/datascience/envint/) due to start in October 2023. 
 
-### Lecturing and tutorials
+# Lecturing and tutorials
 
 Below is a summary of the 
 
@@ -27,4 +27,7 @@ Below is a summary of the
 |                | Summer    | yumm  |
 | 2015-16  | Autumn     | yumm  |
 
+
+
+ 
 
