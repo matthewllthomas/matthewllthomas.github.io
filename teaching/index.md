@@ -15,10 +15,10 @@ Below is a summary of my undergraduate and postgraduate teaching experience.
 
 | Year        | Semester          | Module |
 |:-------------|:--------------|:------|
-| 2021-22  | Autumn     | [MTHM503 - Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM503)  |
-|                | Spring       | [MTHM506/COMM511 - Statistical Data Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM506)  |
-|                |                   | [MTH3012/ECMM449/ECM3904 - Advanced Statistical Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2020/index.php/?moduleCode=MTH3012) (Assessments)   |
-|                | Summer    | [MTHM506J - Statistical Data Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM506)  |
+| 2021-22  | Autumn     | [MTHM503 - Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM503)  <br> Delivered four lectures and two practical sessions  |
+|                | Spring       | [MTHM506/COMM511 - Statistical Data Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM506) <br> Module convenor and lecturer   |
+|                |                   | [MTH3012/ECMM449/ECM3904 - Advanced Statistical Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2020/index.php/?moduleCode=MTH3012) <br> Delivered assessments for   |
+|                | Summer    | [MTHM506J - Statistical Data Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM506)  <br> Module convenor and lecturer  |
 | 2020-21  | Autumn     | [MTHM503 - Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2020/index.php/?moduleCode=MTHM503)  |
 |                | Spring       | [MTHM503J - Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2020/index.php/?moduleCode=MTHM503)  |
 | 2019-20  | Autumn     | [MTHM503 - Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2019/index.php/?moduleCode=MTHM503)<br> Delivered two lectures.  |
@@ -43,8 +43,8 @@ Below is a summary of various short-courses I have (helped) plan, prepare and de
 |                 | _Health Impacts Analysis using R._<br> ICSHNet - EU Cost Action Conference, Thessaloniki, Greece. |
 | 2016        | _Bayesian Hierarchical Models._ <br>CLAPEM Conference, San Jos&eacute;, Costa Rica. |
 |                 | _Data Science and Statistics in Research: Unlocking the Power of your Data._ <br> National University of Mongolia, Mongolia. |
-|                 | _Integrated environment & health impact assessment: A tool for intersectoral action._<br>WHO Capacity Building program, Tallinn, Estonia. |
-|                 | _Integrated environment & health impact assessment: A tool for intersectoral action._<br>WHO Capacity Building program, Bucharest, Romania.  |
+|                 | _Integrated Environment & Health Impact Assessment: A Tool for Intersectoral Action._<br>WHO Capacity Building program, Tallinn, Estonia. |
+|                 | _Integrated Environment & Health Impact Assessment: A Tool for Intersectoral Action._<br>WHO Capacity Building program, Bucharest, Romania.  |
 |                 | _New Frontiers: Advanced Modelling in Space and Time._ <br>BUC4 (Bath-UNAM-CIMAT) Conference, University of Bath, UK. |
 |                 | _Thinking Globally: The Role of Big Data._<br> BUC2 (Bath-UNAM-CIMAT) Conference, UNAM, Mexico. |
 | 2015        | _When Populations and Hazards Collide: Modelling Exposures and Health Risks_ <br> BUC1 (Bath-UNAM-CIMAT) Conference, CIMAT, Mexico. |
