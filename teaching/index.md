@@ -26,7 +26,7 @@ Here is a list of
   <tr>
     <td style="text-align:left;"></td>
     <td style="text-align:left;">Spring</td> 
-    <td style="text-align:left;"><a, href = "https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM506">MTHM506/COMM511 - Statistical Data Modelling</a></td>
+    <td style="text-align:left;"><a href = "https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM506">MTHM506/COMM511 - Statistical Data Modelling</a></td>
   </tr>
   <tr>
     <td style="text-align:left;"></td>
@@ -36,7 +36,7 @@ Here is a list of
   <tr>
     <td style="text-align:left;"></td>
     <td style="text-align:left;">Summer</td> 
-    <td style="text-align:left;"><a, href = "https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM506">MTHM506J - Statistical Data Modelling</a></td>
+    <td style="text-align:left;"><a href = "https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM506">MTHM506J - Statistical Data Modelling</a></td>
   </tr>
   <tr>
     <td style="text-align:left;">2020-21</td>
