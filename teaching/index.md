@@ -33,8 +33,11 @@ Below is a summary of various short-courses I have prepared, planned and deliver
 
 | Year        | Month          | Module |
 |:-------------|:--------------|:------|
-| 2022  | Autumn     | Introduction to Statistical Machine Learning <br>British Lithium, United Kingdom. |
-
+| 2022        | March      | Introduction to Statistical Machine Learning <br>British Lithium, United Kingdom. |
+|                 | February  | Environmental Intelligence: Methods and Models (Part II) <br>Delivered to Environmental
+Intelligence CDT, University of Exeter. |
+| 2021        | November  | Environmental Intelligence: Methods and Models (Part I) <br>Delivered to Environmental
+Intelligence CDT, University of Exeter. |
 
 
 
