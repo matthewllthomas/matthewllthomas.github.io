@@ -12,7 +12,7 @@ I am currently part of the team delivering the [MSc in Applied Data Science and 
 
 
 
-# Lecturing and tutorials
+#Lecturing and tutorials tttt
 
 Below is a summary of the 
 
