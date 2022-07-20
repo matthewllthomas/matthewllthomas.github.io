@@ -30,8 +30,7 @@ Below is a summary of my undergraduate and postgraduate teaching experience.
 ## Short-courses
 
 Below is a summary of various short-courses I have (helped) plan, prepare and deliver.
-
-<p style="font-size::80%;">
+<sub>
 
 | Year        | Month          | Short-course |
 |:-------------|:--------------|:------------------------------------------------------------------------------------------------------------|
@@ -51,4 +50,4 @@ Below is a summary of various short-courses I have (helped) plan, prepare and de
 |                 | February  | _Thinking Globally: The Role of Big Data._<br> BUC2 (Bath-UNAM-CIMAT) Conference, UNAM, Mexico. |
 | 2015        | November  | _When Populations and Hazards Collide: Modelling Exposures and Health Risks_ <br> BUC1 (Bath-UNAM-CIMAT) Conference, CIMAT, Mexico. |
 
-</p>
+</sub>
