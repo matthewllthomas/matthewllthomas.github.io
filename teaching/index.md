@@ -5,32 +5,8 @@ subtitle: Teaching
 ---
 A list of my teaching experience should appear here soon. 
 
-### 2021-22
+## Lecturing 
 
-* MTHM503 - Applications of Data Science and Statistics (_Autumn semester, University of Exeter_)  
-* MTHM506/COMM511 - Statistical Data Modelling (_Spring semester, University of Exeter_)  
-* MTH3012/ECMM449/ECM3904 - Advanced Statistical Modelling (_Spring semester, University of Exeter_)  
-* MTHM506J - Statistical Data Modelling (_Summer semester, University of Exeter_)  
-
-### 2020-21
-
-* MTHM503 - Applications of Data Science and Statistics (_Autumn semester, Imperial College London_)  
-* MTHM503J - Applications of Data Science and Statistics (_Spring semester, University of Exeter_)  
-
-### 2019-20
-
- * SPH001 - Introduction to Statistical Thinking and Data Analysis (_Tutorials, Autumn semester, Imperial College London_)  
-
-### 2016-17
-
- * MA10213 - Business Data Analysis (_Labs, Autumn semester, University of Bath_)  
- * MA10214 - Quantitative Methods (_Tutorials, Spring semester, University of Bath_)  
-
-### 2015-16
-
- * MA10213 - Business Data Analysis (_Labs, Autumn semester, University of Bath_)  
- 
- 
  <table>
   <tr>
     <th style="text-align:left;">Year</th>
@@ -51,6 +27,41 @@ A list of my teaching experience should appear here soon.
     <td style="text-align:left;"></td>
     <td style="text-align:left;"></td> 
     <td style="text-align:left;">MTH3012/ECMM449/ECM3904 - Advanced Statistical Modelling </td>
+  </tr>
+  <tr>
+    <td style="text-align:left;"></td>
+    <td style="text-align:left;">Summer</td> 
+    <td style="text-align:left;">MTHM506J - Statistical Data Modelling</td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">2020-21</td>
+    <td style="text-align:left;">Autumn</td> 
+    <td style="text-align:left;">MTHM503 - Applications of Data Science and Statistics </td>
+  </tr>
+  <tr>
+    <td style="text-align:left;"></td>
+    <td style="text-align:left;">Spring</td> 
+    <td style="text-align:left;">MTHM503J - Applications of Data Science and Statistics </td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">2019-20</td>
+    <td style="text-align:left;">Autumn</td> 
+    <td style="text-align:left;">SPH001 - Introduction to Statistical Thinking and Data Analysis (Tutorials) </td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">2016-17</td>
+    <td style="text-align:left;">Autumn</td> 
+    <td style="text-align:left;">MA10213 - Business Data Analysis (Labs) </td>
+  </tr>
+  <tr>
+    <td style="text-align:left;"></td>
+    <td style="text-align:left;">Spring</td> 
+    <td style="text-align:left;">MA10214 - Quantitative Methods (Tutorials) </td>
+  </tr>
+  <tr>
+    <td style="text-align:left;">2016-17</td>
+    <td style="text-align:left;">Autumn</td> 
+    <td style="text-align:left;">MA10213 - Business Data Analysis (Labs) </td>
   </tr>
 </table>
 
