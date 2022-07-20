@@ -9,9 +9,9 @@ I am passionate about teaching, and have been lucky to have taught a considerabl
 
 I am currently part of the team delivering the [MSc in Applied Data Science and Statistics](https://www.exeter.ac.uk/postgraduate/taught/datascience/applieddatamsc/) and am the Programme Director of the new [MSc in Environmental Intelligence](https://www.exeter.ac.uk/postgraduate/courses/datascience/envint/) due to start in October 2023. 
 
-### Lecturing and tutorials t2
+### Lecturing and tutorials 
 
-Below is a summary of the 
+Below is a summary of my undergraduate and postgraduate teaching experience. 
 
 | Year        | Semester          | Module |
 |:-------------|:--------------|:------|
@@ -26,4 +26,6 @@ Below is a summary of the
 |                | Summer    | [MA10214 - Quantitative Methods](https://www.bath.ac.uk/catalogues/2016-2017/ma/MA10214.html) (Tutorials)  |
 | 2015-16  | Autumn     | [MA10213 - Business Data Analysis](https://www.bath.ac.uk/catalogues/2015-2016/ma/MA10213.html) (Labs)   |
 
+### Short-courses
 
+Below is a summary of various short-courses I have prepared, planned and delivered
