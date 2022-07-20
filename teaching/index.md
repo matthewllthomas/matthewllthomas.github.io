@@ -30,22 +30,40 @@ Below is a summary of my undergraduate and postgraduate teaching experience.
 ## Short-courses
 
 Below is a summary of various short-courses I have (helped) plan, prepare and deliver.
-
-| Year        | Month          | Short-course |
+| Year        | Short-course |
 |:-------------|:--------------|:------------------------------------------------------------------------------------------------------------|
-| 2022        | March      | _Introduction to Statistical Machine Learning_ <br>British Lithium, UK. |
-|                 | February  | _Environmental Intelligence: Methods and Models (Part II)_ <br> University of Exeter, UK. |
-| 2021        | November  | _Environmental Intelligence: Methods and Models (Part I)_ <br> University of Exeter, UK. |
-| 2018        | October  | _Environment and health impact assessment in industrially contaminated sites._ <br> WHO Capacity Building program, Belgrade, Serbia. |
-|                 | February  | _Statistical Methods and Data Analysis for Global Health._<br> Imperial College London, UK. |
-| 2017        | November  | _Environmental Health Impact Assessment using R._<br>Institute of Occupational Medicine, UK. |
-|                 | August  | _Quantifying the Health Impacts of Air Pollution._<br> BUCX (Bath-UNAM-CIMAT) Conference, UNAM, Mexico. |
-|                 | February  | _Health Impacts Analysis using R._<br> ICSHNet - EU Cost Action Conference, Thessaloniki, Greece. |
-| 2016        | December  | _Bayesian Hierarchical Models._ <br>CLAPEM Conference, San Jos&eacute;, Costa Rica. |
-|                 | November  | _Data Science and Statistics in Research: Unlocking the Power of your Data._ <br> National University of Mongolia, Mongolia. |
-|                 | October  | _Integrated environment and health impact assessment: A tool for inter-sectoral action._<br>WHO Capacity Building program, Tallinn, Estonia. |
-|                 | July  | _Integrated environment and health impact assessment: A tool for inter-sectoral action._<br>WHO Capacity Building program, Bucharest, Romania.  |
-|                 | June  | _New Frontiers: Advanced Modelling in Space and Time._ <br>BUC4 (Bath-UNAM-CIMAT) Conference, University of Bath, UK. |
-|                 | February  | _Thinking Globally: The Role of Big Data._<br> BUC2 (Bath-UNAM-CIMAT) Conference, UNAM, Mexico. |
-| 2015        | November  | _When Populations and Hazards Collide: Modelling Exposures and Health Risks_ <br> BUC1 (Bath-UNAM-CIMAT) Conference, CIMAT, Mexico. |
+| 2022        | _Introduction to Statistical Machine Learning_ <br>British Lithium, UK. |
+|                 | _Environmental Intelligence: Methods and Models (Part II)_ <br> University of Exeter, UK. |
+| 2021        | _Environmental Intelligence: Methods and Models (Part I)_ <br> University of Exeter, UK. |
+| 2018        | _Environment and health impact assessment in industrially contaminated sites._ <br> WHO Capacity Building program, Belgrade, Serbia. |
+|                 | _Statistical Methods and Data Analysis for Global Health._<br> Imperial College London, UK. |
+| 2017        | _Environmental Health Impact Assessment using R._<br>Institute of Occupational Medicine, UK. |
+|                 | _Quantifying the Health Impacts of Air Pollution._<br> BUCX (Bath-UNAM-CIMAT) Conference, UNAM, Mexico. |
+|                 | _Health Impacts Analysis using R._<br> ICSHNet - EU Cost Action Conference, Thessaloniki, Greece. |
+| 2016        | _Bayesian Hierarchical Models._ <br>CLAPEM Conference, San Jos&eacute;, Costa Rica. |
+|                 | _Data Science and Statistics in Research: Unlocking the Power of your Data._ <br> National University of Mongolia, Mongolia. |
+|                 | _Integrated environment and health impact assessment: A tool for inter-sectoral action._<br>WHO Capacity Building program, Tallinn, Estonia. |
+|                 | _Integrated environment and health impact assessment: A tool for inter-sectoral action._<br>WHO Capacity Building program, Bucharest, Romania.  |
+|                 | _New Frontiers: Advanced Modelling in Space and Time._ <br>BUC4 (Bath-UNAM-CIMAT) Conference, University of Bath, UK. |
+|                 | _Thinking Globally: The Role of Big Data._<br> BUC2 (Bath-UNAM-CIMAT) Conference, UNAM, Mexico. |
+| 2015        | _When Populations and Hazards Collide: Modelling Exposures and Health Risks_ <br> BUC1 (Bath-UNAM-CIMAT) Conference, CIMAT, Mexico. |
+
+
+%| Year        | Month          | Short-course |
+%|:-------------|:--------------|:------------------------------------------------------------------------------------------------------------|
+%| 2022        | March      | _Introduction to Statistical Machine Learning_ <br>British Lithium, UK. |
+%|                 | February  | _Environmental Intelligence: Methods and Models (Part II)_ <br> University of Exeter, UK. |
+%| 2021        | November  | _Environmental Intelligence: Methods and Models (Part I)_ <br> University of Exeter, UK. |
+%| 2018        | October  | _Environment and health impact assessment in industrially contaminated sites._ <br> WHO Capacity Building program, Belgrade, Serbia. |
+%|                 | February  | _Statistical Methods and Data Analysis for Global Health._<br> Imperial College London, UK. |
+%| 2017        | November  | _Environmental Health Impact Assessment using R._<br>Institute of Occupational Medicine, UK. |
+%|                 | August  | _Quantifying the Health Impacts of Air Pollution._<br> BUCX (Bath-UNAM-CIMAT) Conference, UNAM, Mexico. |
+%|                 | February  | _Health Impacts Analysis using R._<br> ICSHNet - EU Cost Action Conference, Thessaloniki, Greece. |
+%| 2016        | December  | _Bayesian Hierarchical Models._ <br>CLAPEM Conference, San Jos&eacute;, Costa Rica. |
+%|                 | November  | _Data Science and Statistics in Research: Unlocking the Power of your Data._ <br> National University of Mongolia, Mongolia. |
+%|                 | October  | _Integrated environment and health impact assessment: A tool for inter-sectoral action._<br>WHO Capacity Building program, Tallinn, Estonia. |
+%|                 | July  | _Integrated environment and health impact assessment: A tool for inter-sectoral action._<br>WHO Capacity Building program, Bucharest, Romania.  |
+%|                 | June  | _New Frontiers: Advanced Modelling in Space and Time._ <br>BUC4 (Bath-UNAM-CIMAT) Conference, University of Bath, UK. |
+%|                 | February  | _Thinking Globally: The Role of Big Data._<br> BUC2 (Bath-UNAM-CIMAT) Conference, UNAM, Mexico. |
+%| 2015        | November  | _When Populations and Hazards Collide: Modelling Exposures and Health Risks_ <br> BUC1 (Bath-UNAM-CIMAT) Conference, CIMAT, Mexico. |
 
