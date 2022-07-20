@@ -22,6 +22,7 @@ Below is a summary of my undergraduate and postgraduate teaching experience.
 | 2020-21  | Autumn     | [MTHM503 - Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2020/index.php/?moduleCode=MTHM503)  |
 |                | Spring       | [MTHM503J - Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2020/index.php/?moduleCode=MTHM503)  |
 | 2019-20  | Autumn     | [SPH001 - Intro to Statistical Thinking and Data Analysis](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiHgp_z5of5AhVIgFwKHckVD-AQFnoECBEQAQ&url=https%3A%2F%2Fwww.imperial.ac.uk%2Fmedia%2Fimperial-college%2Fmedicine%2Fsph%2Fstudy%2Fmodule-outlines%2Fhda%2FIntro-to-Stat-Thinking-and-Data-Analysis-Module-Outline-2019.20-Updated.docx&usg=AOvVaw3Esow9eU9hUZPlVMXEKyUk) (Tutorials)  |
+|                 | Autumn     | [MTHM503 - Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2019/index.php/?moduleCode=MTHM503)  |
 | 2016-17  | Autumn     | [MA10213 - Business Data Analysis](https://www.bath.ac.uk/catalogues/2016-2017/ma/MA10213.html) (Labs)  |
 |                | Summer    | [MA10214 - Quantitative Methods](https://www.bath.ac.uk/catalogues/2016-2017/ma/MA10214.html) (Tutorials)  |
 | 2015-16  | Autumn     | [MA10213 - Business Data Analysis](https://www.bath.ac.uk/catalogues/2015-2016/ma/MA10213.html) (Labs)   |
@@ -29,3 +30,11 @@ Below is a summary of my undergraduate and postgraduate teaching experience.
 ### Short-courses
 
 Below is a summary of various short-courses I have prepared, planned and delivered
+
+| Year        | Month          | Module |
+|:-------------|:--------------|:------|
+| 2022  | Autumn     | Introduction to Statistical Machine Learning <br>British Lithium, United Kingdom. |
+
+
+
+
