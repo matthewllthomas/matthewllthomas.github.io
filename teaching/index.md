@@ -23,6 +23,7 @@ Below is a summary of my undergraduate and postgraduate teaching experience.
 |                | Spring       | [MTHM503J - Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2020/index.php/?moduleCode=MTHM503)  |
 | 2019-20  | Autumn     | [MTHM503 - Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2019/index.php/?moduleCode=MTHM503)  |
 |                 |                | [SPH001 - Intro to Statistical Thinking and Data Analysis](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiHgp_z5of5AhVIgFwKHckVD-AQFnoECBEQAQ&url=https%3A%2F%2Fwww.imperial.ac.uk%2Fmedia%2Fimperial-college%2Fmedicine%2Fsph%2Fstudy%2Fmodule-outlines%2Fhda%2FIntro-to-Stat-Thinking-and-Data-Analysis-Module-Outline-2019.20-Updated.docx&usg=AOvVaw3Esow9eU9hUZPlVMXEKyUk)  (Tutorials)     |
+| 2018-19  | Autumn     | Module 6 - Advanced Statistical Modelling (as part of MSc Data Science Professional) |
 | 2016-17  | Autumn     | [MA10213 - Business Data Analysis](https://www.bath.ac.uk/catalogues/2016-2017/ma/MA10213.html)  (Practicals)   |
 |                | Summer    | [MA10214 - Quantitative Methods](https://www.bath.ac.uk/catalogues/2016-2017/ma/MA10214.html) (Tutorials) |
 | 2015-16  | Autumn     | [MA10213 - Business Data Analysis](https://www.bath.ac.uk/catalogues/2015-2016/ma/MA10213.html) (Practicals)   |
