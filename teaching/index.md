@@ -33,21 +33,20 @@ Below is a summary of various short-courses I have (helped) plan, prepare and de
 
 | Year        | Month          | Short-course |
 |:-------------|:--------------|:------------------------------------------------------------------------------------------------------------|
-| 2022        | March      | Introduction to Statistical Machine Learning <br>British Lithium, UK. |
-|                 | February  | Environmental Intelligence: Methods and Models (Part II) <br> Environmental Intelligence CDT, University of Exeter, UK. |
-| 2021        | November  | Environmental Intelligence: Methods and Models (Part I) <br> Environmental Intelligence CDT, University of Exeter, UK. |
-| 2018        | October  | Environment and health impact assessment in industrially contaminated sites. <br> Belgrade, Serbia. |
-|                 | February  | Statistical Methods and Data Analysis for Global Health. <br> Imperial College London, London, UK. |
-| 2017        | November  | Environmental Health Impact Assessment using R.<br>Institute of Occupational Medicine, Edinburgh, UK. |
-|                 | August  | Quantifying the Health Impacts of Air Pollution. <br> BUCX (Bath-UNAM-CIMAT) Conference, UNAM, Mexico. |
-|                 | February  | Health Impacts Analysis using R.<br> ICSHNet - EU Cost Action, Thessaloniki, Greece. |
-
-| 2016        | December  | Bayesian Hierarchical Models. <br>CLAPEM Conference, Universidad de Costa Rica, Costa Rica. |
-|                 | November  | Data Science and Statistics in Research: Unlocking the Power of your Data. <br> National University of Mongolia, Mongolia. |
-|                 | October  | Integrated environment and health impact assessment: A tool for inter-sectoral action. <br>Tallinn, Estonia. |
-|                 | July  | Integrated environment and health impact assessment: A tool for inter-sectoral action. <br>Bucharest, Romania.  |
-|                 | June  | New Frontiers: Advanced Modelling in Space and Time. <br>BUC4 (Bath-UNAM-CIMAT) Conference, University of Bath, UK. |
-|                 | February  | Thinking Globally: The Role of Big Data. <br> BUC2 (Bath-UNAM-CIMAT) Conference, UNAM, Mexico. |
-| 2015        | November  | When Populations and Hazards Collide: Modelling Exposures and Health Risks <br> BUC1 (Bath-UNAM-CIMAT) Conference, CIMAT, Mexico. |
+| 2022        | March      | _Introduction to Statistical Machine Learning_ <br>British Lithium, UK. |
+|                 | February  | _Environmental Intelligence: Methods and Models (Part II)_ <br> University of Exeter, UK. |
+| 2021        | November  | _Environmental Intelligence: Methods and Models (Part I)_ <br> University of Exeter, UK. |
+| 2018        | October  | _Environment and health impact assessment in industrially contaminated sites._ <br> Belgrade, Serbia. |
+|                 | February  | _Statistical Methods and Data Analysis for Global Health._<br> Imperial College London, UK. |
+| 2017        | November  | _Environmental Health Impact Assessment using R._<br>Institute of Occupational Medicine, UK. |
+|                 | August  | _Quantifying the Health Impacts of Air Pollution._<br> BUCX (Bath-UNAM-CIMAT) Conference, UNAM, Mexico. |
+|                 | February  | _Health Impacts Analysis using R._<br> ICSHNet - EU Cost Action Conference, Thessaloniki, Greece. |
+| 2016        | December  | _Bayesian Hierarchical Models._ <br>CLAPEM Conference, San Jos&eacute;, Costa Rica. |
+|                 | November  | _Data Science and Statistics in Research: Unlocking the Power of your Data._ <br> National University of Mongolia, Mongolia. |
+|                 | October  | _Integrated environment and health impact assessment: A tool for inter-sectoral action._<br>Tallinn, Estonia. |
+|                 | July  | _Integrated environment and health impact assessment: A tool for inter-sectoral action._<br>Bucharest, Romania.  |
+|                 | June  | _New Frontiers: Advanced Modelling in Space and Time._ <br>BUC4 (Bath-UNAM-CIMAT) Conference, University of Bath, UK. |
+|                 | February  | _Thinking Globally: The Role of Big Data._<br> BUC2 (Bath-UNAM-CIMAT) Conference, UNAM, Mexico. |
+| 2015        | November  | _When Populations and Hazards Collide: Modelling Exposures and Health Risks_ <br> BUC1 (Bath-UNAM-CIMAT) Conference, CIMAT, Mexico. |
 
 
