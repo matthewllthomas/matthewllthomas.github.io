@@ -6,11 +6,22 @@ subtitle: Teaching
 
 # Teaching 
 
-I am passionate about teaching, and have been lucky to have taught a considerable amount throughout my career to both undergraduate and postgraduate students as well as delivering short courses to public health officials, policy makers and researchers with external partners. I have prepared, planned and delivered content to participants with a range of skills and abilities, both inside and outside of a university environment. Below are lists of my teaching experience. 
+I am passionate about teaching, and have been lucky to have taught a considerable amount throughout my career to both undergraduate and postgraduate students as well as delivering short courses to public health officials, policy makers and researchers with external partners. I have prepared, planned and delivered content to participants with a range of skills and abilities, both inside and outside of a university environment. 
 
-## Lecturing and tutorials
+I am currently part of the team delivering the <a href = "https://www.exeter.ac.uk/postgraduate/taught/datascience/applieddatamsc/">MSc in Applied Data Science and Statistics</a> and am the Programme Director of the new <a href = "https://www.exeter.ac.uk/postgraduate/courses/datascience/envint/">MSc in Environmental Intelligence</a> due to start in October 2023. 
 
-Here is a list of
+### Lecturing and tutorials
+
+Below is a summary of the 
+
+| Year        | Semester          | Module |
+|:-------------|:------------------|:------|
+| ok           | good swedish fish | nice  |
+| out of stock | good and plenty   | nice  |
+| ok           | good `oreos`      | hmm   |
+| ok           | good `zoute` drop | yumm  |
+
+
 
  <table>
   <tr>
