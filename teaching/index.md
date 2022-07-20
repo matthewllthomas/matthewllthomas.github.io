@@ -16,10 +16,10 @@ Below is a summary of the
 
 | Year        | Semester          | Module |
 |:-------------|:--------------|:------|
-| 2021-22  | Autumn     | nice  |
-|                | Spring       | nice  |
-|                |                   | hmm   |
-|                | Summer    | yumm  |
+| 2021-22  | Autumn     | <a href = "https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM503">MTHM503 - Applications of Data Science and Statistics</a>  |
+|                | Spring       | <a href = "https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM506">MTHM506/COMM511 - Statistical Data Modelling</a>  |
+|                |                   | <a href="https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2020/index.php/?moduleCode=MTH3012">MTH3012/ECMM449/ECM3904 - Advanced Statistical Modelling</a> (Assessments)   |
+|                | Summer    | <a href = "https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM506">MTHM506J - Statistical Data Modelling</a>  |
 | 2020-21  | Autumn     | yumm  |
 |                | Spring       | yumm  |
 | 2019-20  | Autumn     | yumm  |
