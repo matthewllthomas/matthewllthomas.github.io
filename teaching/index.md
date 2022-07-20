@@ -32,12 +32,10 @@ Below is a summary of my undergraduate and postgraduate teaching experience.
 Below is a summary of various short-courses I have prepared, planned and delivered
 
 | Year        | Month          | Module |
-|:-------------|:--------------|:------|
+|:-------------|:--------------|:------------------------------------------------------------------------------------------------------------|
 | 2022        | March      | Introduction to Statistical Machine Learning <br>British Lithium, United Kingdom. |
-|                 | February  | Environmental Intelligence: Methods and Models (Part II) <br>Delivered to Environmental
-Intelligence CDT, University of Exeter. |
-| 2021        | November  | Environmental Intelligence: Methods and Models (Part I) <br>Delivered to Environmental
-Intelligence CDT, University of Exeter. |
+|                 | February  | Environmental Intelligence: Methods and Models (Part II) <br>Delivered to Environmental Intelligence CDT, University of Exeter. |
+| 2021        | November  | Environmental Intelligence: Methods and Models (Part I) <br>Delivered to Environmental Intelligence CDT, University of Exeter. |
 
 
 
