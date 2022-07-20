@@ -43,8 +43,8 @@ Below is a summary of various short-courses I have (helped) plan, prepare and de
 |                 | _Health Impacts Analysis using R._<br> ICSHNet - EU Cost Action Conference, Thessaloniki, Greece. |
 | 2016        | _Bayesian Hierarchical Models._ <br>CLAPEM Conference, San Jos&eacute;, Costa Rica. |
 |                 | _Data Science and Statistics in Research: Unlocking the Power of your Data._ <br> National University of Mongolia, Mongolia. |
-|                 | _Integrated environment and health impact assessment: A tool for inter-sectoral action._<br>WHO Capacity Building program, Tallinn, Estonia. |
-|                 | _Integrated environment and health impact assessment: A tool for inter-sectoral action._<br>WHO Capacity Building program, Bucharest, Romania.  |
+|                 | _Integrated environment \& health impact assessment: A tool for intersectoral action._<br>WHO Capacity Building program, Tallinn, Estonia. |
+|                 | _Integrated environment \& health impact assessment: A tool for intersectoral action._<br>WHO Capacity Building program, Bucharest, Romania.  |
 |                 | _New Frontiers: Advanced Modelling in Space and Time._ <br>BUC4 (Bath-UNAM-CIMAT) Conference, University of Bath, UK. |
 |                 | _Thinking Globally: The Role of Big Data._<br> BUC2 (Bath-UNAM-CIMAT) Conference, UNAM, Mexico. |
 | 2015        | _When Populations and Hazards Collide: Modelling Exposures and Health Risks_ <br> BUC1 (Bath-UNAM-CIMAT) Conference, CIMAT, Mexico. |
