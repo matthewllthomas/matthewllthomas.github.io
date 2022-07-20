@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Dr. Matthew Thomas
-subtitle: Teaching
 ---
 
 # Teaching 
@@ -10,9 +9,7 @@ I am passionate about teaching, and have been lucky to have taught a considerabl
 
 I am currently part of the team delivering the [MSc in Applied Data Science and Statistics](https://www.exeter.ac.uk/postgraduate/taught/datascience/applieddatamsc/) and am the Programme Director of the new [MSc in Environmental Intelligence](https://www.exeter.ac.uk/postgraduate/courses/datascience/envint/) due to start in October 2023. 
 
-
-
-#Lecturing and tutorials tttt
+### Lecturing and tutorials t2
 
 Below is a summary of the 
 
