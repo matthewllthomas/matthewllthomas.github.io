@@ -3,9 +3,11 @@ layout: default
 title: Dr. Matthew Thomas
 subtitle: Teaching
 ---
-A list of my teaching experience should appear here soon. 
 
-## Lecturing 
+I am passionate about teaching, and have been lucky to have taught a considerable amount throughout my career to both undergraduate and postgraduate students as well as delivering short courses to public health officials, policy makers and researchers with external partners. I have prepared, planned and delivered content to participants with a range of skills and abilities, both inside and outside of a university environment. Below are lists of my teaching experience. 
+
+## Lecturing and tutorials
+
 
  <table>
   <tr>
@@ -16,7 +18,7 @@ A list of my teaching experience should appear here soon.
   <tr>
     <td style="text-align:left;">2021-22</td>
     <td style="text-align:left;">Autumn</td> 
-    <td style="text-align:left;">MTHM503 - Applications of Data Science and Statistics</td>
+    <td style="text-align:left;"><a href = "https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM503">MTHM503 - Applications of Data Science and Statistics</a></td>
   </tr>
   <tr>
     <td style="text-align:left;"></td>
