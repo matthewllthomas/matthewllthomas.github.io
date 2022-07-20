@@ -9,7 +9,7 @@ I am passionate about teaching, and have been lucky to have taught a considerabl
 
 I am currently part of the team delivering the [MSc in Applied Data Science and Statistics](https://www.exeter.ac.uk/postgraduate/taught/datascience/applieddatamsc/) and am the Programme Director of the new [MSc in Environmental Intelligence](https://www.exeter.ac.uk/postgraduate/courses/datascience/envint/) due to start in October 2023. 
 
-### Lecturing and tutorials 
+## Lecturing and tutorials 
 
 Below is a summary of my undergraduate and postgraduate teaching experience. 
 
@@ -27,15 +27,19 @@ Below is a summary of my undergraduate and postgraduate teaching experience.
 |                | Summer    | [MA10214 - Quantitative Methods](https://www.bath.ac.uk/catalogues/2016-2017/ma/MA10214.html) (Tutorials)  |
 | 2015-16  | Autumn     | [MA10213 - Business Data Analysis](https://www.bath.ac.uk/catalogues/2015-2016/ma/MA10213.html) (Labs)   |
 
-### Short-courses
+## Short-courses
 
-Below is a summary of various short-courses I have prepared, planned and delivered
+Below is a summary of various short-courses I have (helped) plan, prepare and deliver.
 
-| Year        | Month          | Module |
+| Year        | Month          | Short-course |
 |:-------------|:--------------|:------------------------------------------------------------------------------------------------------------|
-| 2022        | March      | Introduction to Statistical Machine Learning <br>British Lithium, United Kingdom. |
-|                 | February  | Environmental Intelligence: Methods and Models (Part II) <br>Delivered to Environmental Intelligence CDT, University of Exeter. |
-| 2021        | November  | Environmental Intelligence: Methods and Models (Part I) <br>Delivered to Environmental Intelligence CDT, University of Exeter. |
-
+| 2022        | March      | Introduction to Statistical Machine Learning <br>British Lithium, UK. |
+|                 | February  | Environmental Intelligence: Methods and Models (Part II) <br> Environmental Intelligence CDT, University of Exeter, UK. |
+| 2021        | November  | Environmental Intelligence: Methods and Models (Part I) <br>Delivered to Environmental Intelligence CDT, University of Exeter, UK. |
+| 2018        | October  | Environment and health impact assessment in industrially contaminated sites. <br> Belgrade, Serbia. |
+|                 | February  | Short course in Statistical Methods and Data Analysis for Global Health. <br> Imperial College London, London, UK. |
+| 2017        | November  | Environmental Health Impact Assessment using R.<br>Institute of Occupational Medicine, Edinburgh, UK. |
+|                 | August  | Quantifying the Health Impacts of Air Pollution. <br> BUCX (Bath-UNAM-CIMAT) Conference, UNAM, Mexico. |
+|                 | February  | EU Cost Action, Industrially Contaminated Sites and Health Network (ICSHNet).<br> Thessaloniki, Greece. |
 
 
