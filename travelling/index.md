@@ -8,7 +8,7 @@ subtitle: Travelling
 
 I have a keen interest in travel, which I'm starting to pick up again now that we are emerging from the pandemic. So, far the countries I have visited are Canada, China, Costa Rica, Croatia, Estonia, France, Germany, Greece, Ireland, Italy, Latvia, Mexico, Mongolia, Portugal, Romania, Serbia, Spain, Switzerland, United Kingdom, United States of America. 
 
-<img style="float: center" align="center" src="travelling/map.pdf" alt="Headshot" width = "275" > 
+<img style="float: center" align="center" src="./travelling/map.pdf" alt="A map of countries visited" width = "275" > 
 
 Here is a list of the locations I have visited recently:
 
