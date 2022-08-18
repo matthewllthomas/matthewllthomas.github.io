@@ -16,6 +16,14 @@ subtitle: Presentations
 
 ### 2018
 
+| <td, colspan = 3> Temp </td> |
+|:-------------|:--------------|:------------------------------------------------------------------------------------------------------------|
+| 2022        | _Introduction to Statistical Machine Learning_ <br>British Lithium, UK. |
+|                 | _Environmental Intelligence: Methods and Models (Part II)_ <br> University of Exeter, UK. |
+| 2021        | _Environmental Intelligence: Methods and Models (Part I)_ <br> University of Exeter, UK. |
+
+
+
 **The 28th Annual Conference of The International Environmetrics Society (TIES):** <br>
 **Location:** Centro de Investigacion en Matematicas (CIMAT), Guanajuato, México.<br>
 **Date:** 16th - 21st July 2018 <br>
