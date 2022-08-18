@@ -20,6 +20,7 @@ subtitle: Presentations
 **Location:** Centro de Investigacion en Matematicas (CIMAT), Guanajuato, México.<br>
 **Date:** 16th - 21st July 2018 <br>
 **Title:** Global air pollution and health: revealing the differences in the quality of the air that we breathe (Talk; Link)
+
 	- Abstract
 	- Talk
 
