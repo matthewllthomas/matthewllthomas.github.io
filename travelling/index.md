@@ -33,7 +33,7 @@ Here is a list of the locations I have visited recently:
 
 ### 2017
 
-* Canada (Vancouver 
+* Canada (Vancouver)
 * Germany (Bonn)
 * Greece (Thessaloniki)
 * Mexico (Mexico City)
