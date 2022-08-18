@@ -8,11 +8,41 @@ subtitle: Presentations
 
 ### 2022
 
+**Joint JCEEI-UoM Meeting** <br>
+**Location: University of Manchester, Manchester, UK** <br>
+**Date:** 27th-28th July 2022<br>
+**Title:** Data Integration Model for Exposures (DIMEX-UK)
+
 ### 2021
+
+**European Centre for Environment and Human Health (ECEEH) Seminar** <br>
+**Location: Online** <br>
+**Date:** 25th March 2021<br>
+**Title:** Estimating male circumcision coverage in South Africa
 
 ### 2020
 
+**Joint Centre for Excellence in Environmental Intelligence (JCEEI) Conference 2020** <br>
+**Location: Online** <br>
+**Date:** 17th-18th December 2020<br>
+**Title:** Estimating the male circumcision rates for the evaluation of public health programmes in South Africa
+
+**UNAIDS Reference Group Meeting** <br>
+**Location: Online** <br>
+**Date:** 20th-24th April 2020 <br>
+**Title:** Estimating the male circumcision rates for the evaluation of public health programmes in South Africa
+
 ### 2019
+
+**GEOMED** <br>
+**Location: University of Glasgow, Glasgow, UK** <br>
+**Date:** 27th-29th August 2019 <br>
+**Title:** Data integration for high–resolution, continental–scale estimation of air pollution concentrations
+
+**UNAIDS Reference Group Meeting** <br>
+**Location: Avenir Health, Connecticut, US** <br>
+**Date:** 6th-10th May 2019 <br>
+**Title:** Estimating anti-retroviral treatment coverage using facility level data
 
 ### 2018
 
