@@ -1,7 +1,7 @@
 ---
 layout: default
-**Title:** Dr. Matthew Thomas
-sub**Title:** Presentations
+title: Dr. Matthew Thomas
+subtitle: Presentations
 ---
 
 # Presentations 
@@ -16,17 +16,20 @@ sub**Title:** Presentations
 
 ### 2018
 
-_The 28th Annual Conference of The International Environmetrics Society (TIES), Centro de Investigacion en Matematicas (CIMAT), Guanajuato, México._
+**The 28th Annual Conference of The International Environmetrics Society (TIES)**
+* **Location:** Centro de Investigacion en Matematicas (CIMAT), Guanajuato, México.
 * **Title:** Global air pollution and health: revealing the differences in the quality of the air that we breathe (Talk; Link)
 * **Date:** 16th - 21st July 2018
 
-_2018 World Meeting of the International Society for Bayesian Analysis (ISBA), University of Edinburgh, Edinburgh, UK._
+**2018 World Meeting of the International Society for Bayesian Analysis (ISBA)**
+* **Location:** University of Edinburgh, Edinburgh, UK._
 * **Title:** Data Integration for high-resolution, continental-scale estimation of air pollution concentrations (Poster; Link)
 * **Date:** 24th - 29th June 2018
 
-_Workshop in Geospatial methods for closing the global mortality data divide, University of Toronto, Toronto, Canada._
-**Title:** Data Integration for high-resolution, continental- scale estimation of air pollution concentrations (Talk; Link)
-**Date:** 14th - 15th June 2018
+**Workshop in Geospatial methods for closing the global mortality data divide** 
+* **Location:** University of Toronto, Toronto, Canada.
+* **Title:** Data Integration for high-resolution, continental- scale estimation of air pollution concentrations (Talk; Link)
+* **Date:** 14th - 15th June 2018
 
 ### 2017
 
