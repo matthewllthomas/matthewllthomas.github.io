@@ -16,10 +16,10 @@ subtitle: Presentations
 
 ### 2018
 
-**The 28th Annual Conference of The International Environmetrics Society (TIES):** 
-**Location:** Centro de Investigacion en Matematicas (CIMAT), Guanajuato, México.
-**Title:** Global air pollution and health: revealing the differences in the quality of the air that we breathe (Talk; Link)
-**Date:** 16th - 21st July 2018 ()
+**The 28th Annual Conference of The International Environmetrics Society (TIES):** <br>
+**Location:** Centro de Investigacion en Matematicas (CIMAT), Guanajuato, México.<br>
+**Title:** Global air pollution and health: revealing the differences in the quality of the air that we breathe (Talk; Link)<br>
+**Date:** 16th - 21st July 2018 
 
 **2018 World Meeting of the International Society for Bayesian Analysis (ISBA)**
 * **Location:** University of Edinburgh, Edinburgh, UK._
