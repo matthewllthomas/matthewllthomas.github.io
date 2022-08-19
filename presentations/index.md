@@ -11,55 +11,65 @@ subtitle: Presentations
 **Joint JCEEI-UoM Meeting** <br>
 **Location: University of Manchester, Manchester, UK** <br>
 **Date:** 27th-28th July 2022<br>
-**Title:** Data Integration Model for Exposures (DIMEX-UK)
+**Title:** Data Integration Model for Exposures (DIMEX-UK)<br>
+**Links:**[Talk](2022/JCEEI/presentation.pdf)
 
 ### 2021
 
 **European Centre for Environment and Human Health (ECEEH) Seminar** <br>
 **Location: Online** <br>
 **Date:** 25th March 2021<br>
-**Title:** Estimating male circumcision coverage in South Africa
+**Title:** Estimating male circumcision coverage in South Africa <br>
+**Links:** [Abstract](2021/ECEHH/abstract.txt), [Talk](2021/ECEHH/presentation.pdf)
 
 ### 2020
 
 **Joint Centre for Excellence in Environmental Intelligence (JCEEI) Conference 2020** <br>
 **Location: Online** <br>
 **Date:** 17th-18th December 2020<br>
-**Title:** Estimating the male circumcision rates for the evaluation of public health programmes in South Africa
+**Title:** Estimating the male circumcision rates for the evaluation of public health programmes in South Africa<br>
+**Links:**[Talk](2020/JCEEI/poster.pdf)
 
 **UNAIDS Reference Group Meeting** <br>
 **Location: Online** <br>
 **Date:** 20th-24th April 2020 <br>
-**Title:** Estimating the male circumcision rates for the evaluation of public health programmes in South Africa
+**Title:** Estimating the male circumcision rates for the evaluation of public health programmes in South Africa <br>
+**Links:**[Talk](2020/UNAIDS/presentation.pdf)
 
 ### 2019
 
 **GEOMED** <br>
 **Location: University of Glasgow, Glasgow, UK** <br>
 **Date:** 27th-29th August 2019 <br>
-**Title:** Data integration for high–resolution, continental–scale estimation of air pollution concentrations
+**Title:** Data integration for high–resolution, continental–scale estimation of air pollution concentrations <br>
+**Links:** [Abstract](2019/GEOMED/abstract.txt), [Talk](2019/GEOMED/presentation.pdf)
 
 **UNAIDS Reference Group Meeting** <br>
 **Location: Avenir Health, Connecticut, US** <br>
 **Date:** 6th-10th May 2019 <br>
-**Title:** Estimating anti-retroviral treatment coverage using facility level data
+**Title:** Estimating anti-retroviral treatment coverage using facility level data <br>
+**Links:**[Talk](2019/UNAIDS/presentation.pdf)
+
 
 ### 2018
 
 **The 28th Annual Conference of The International Environmetrics Society (TIES):** <br>
 **Location:** Centro de Investigacion en Matematicas (CIMAT), Guanajuato, México.<br>
 **Date:** 16th - 21st July 2018 <br>
-**Title:** Global air pollution and health: revealing the differences in the quality of the air that we breathe 
+**Title:** Global air pollution and health: revealing the differences in the quality of the air that we breathe <br>
+**Links:** [Abstract](2018/TIES/abstract.txt), [Talk](2018/TIES/presentation.pdf)
 
 **2018 World Meeting of the International Society for Bayesian Analysis (ISBA)**<br>
 **Location:** University of Edinburgh, Edinburgh, UK<br>
 **Date:** 24th - 29th June 2018<br>
 **Title:** Data Integration for high-resolution, continental-scale estimation of air pollution concentrations<br>
+**Links:** [Abstract](2018/ISBA/abstract.txt), [Talk](2018/ISBA/poster.pdf)
 
 **Workshop in Geospatial methods for closing the global mortality data divide** <br>
 **Location:** University of Toronto, Toronto, Canada.<br>
 **Date:** 14th - 15th June 2018<br>
-**Title:** Data Integration for high-resolution, continental- scale estimation of air pollution concentrations
+**Title:** Data Integration for high-resolution, continental- scale estimation of air pollution concentrations<br>
+**Links:** [Abstract](2018/Toronto/abstract.txt), [Talk](2018/Toronto/presentation.pdf)
 
 ### 2017
 
