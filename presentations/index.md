@@ -70,7 +70,7 @@ subtitle: Presentations
 **Links:** [Abstract](2017/GEOMED/abstract.txt), [Talk](2017/GEOMED/poster.pdf)
 
 **Bath-UNAM-CIMAT (BUC) X Conference** <br>
-**Location:**  Universidad Nacional Autónoma de México (UNAM) México <br>
+**Location:**  Universidad Nacional Autónoma de México (UNAM), México City, México <br>
 **Date:** 9th August 2017 <br>
 **Title:** Data Integration for high-resolution continental-scale estimation of air pollution concentrations<br>
 **Links:** [Abstract](2017/BUCX/abstract.txt), [Talk](2017/BUCX/presentation.pdf)
@@ -93,9 +93,9 @@ subtitle: Presentations
 **Location:** Universidad de Costa Rica, San Jose, Costa Rica <br>
 **Date:** 5th - 9th December 2016 <br>
 **Title 1:** Data Integration Model for Air Quality: A Hierarchical Approach to the Global Estimation of Exposures to Ambient Air Pollution <br> 
-**Links:** [Abstract](2016/CLAPEM/abstract1.txt), [Poster](2016/CLAPEM/presentation1.pdf) <br>
+**Links:** [Abstract](2016/CLAPEM/abstract1.txt), [Poster](2016/CLAPEM/poster1.pdf) <br>
 **Title 2:** Trends in country-level exposures to particulate matter air pollution <br>
-**Links:** [Abstract](2016/CLAPEM/abstract2.txt), [Poster](2016/CLAPEM/presentation2.pdf)
+**Links:** [Abstract](2016/CLAPEM/abstract2.txt), [Poster](2016/CLAPEM/poster2.pdf)
 
 **Research Students’ Conference (RSC) 2016** <br>
 **Location:** University College Dublin, Dublin, Ireland <br>
@@ -110,7 +110,7 @@ subtitle: Presentations
 **Links:** [Abstract](2016/NAS/abstract.txt), [Talk](2016/NAS/presentation.pdf)
 
 **Bath-UNAM-CIMAT (BUC) 2 Conference** <br>
-**Location:**  Universidad Nacional Autónoma de México (UNAM) México <br>
+**Location:**  Universidad Nacional Autónoma de México (UNAM), México City, México <br>
 **Date:** 24th February 2016 <br>
 **Title:** Global modelling of air pollution using multiple data sources <br>
 **Links:** [Abstract](2016/BUC2/abstract.txt), [Talk](2016/BUC2/presentation.pdf)
@@ -118,7 +118,7 @@ subtitle: Presentations
 ### 2015
 
 **Bath-UNAM-CIMAT (BUC) 1 Conference** <br>
-**Location:** Centro de Investigación en Matemáticas (CIMAT) México <br>
+**Location:** Centro de Investigación en Matemáticas (CIMAT), Guanajuato, México <br>
 **Date:** 11th November 2015 <br>
 **Title:** Global modelling of air pollution using multiple data sources <br>
 **Links:** [Abstract](2015/BUC1/abstract.txt), [Talk](2015/BUC1/presentation.pdf)
