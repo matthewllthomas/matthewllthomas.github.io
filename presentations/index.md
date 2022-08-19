@@ -109,14 +109,17 @@ subtitle: Presentations
 ### 2015
 
 **Bath-UNAM-CIMAT (BUC) 1 Conference** <br>
-**Location:** Centro de Investigación en Matemáticas (CIMAT) México
+**Location:** Centro de Investigación en Matemáticas (CIMAT) México <br>
 **Date:** 11th November 2015 <br>
-**Title:** Global modelling of air pollution using multiple data sources 
+**Title:** Global modelling of air pollution using multiple data sources <br>
+**Abstract:** ([Link](2015/BUC1/abstract.txt)) <br>
+**Talk:** ([Link](2015/BUC1/presentation.pdf))
 
 **Bath Institute of Mathematical Innovation (IMI) Launch** <br>
 **Location:** University of Bath, Bath, UK <br>
 **Date:** 28th October 2015 <br>
-**Title:** How an Industrial Placement Influenced Me
+**Title:** How an Industrial Placement Influenced Me <br>
+**Talk:** ([Link](2015/IMI/presentation.pdf))
 
 
 
