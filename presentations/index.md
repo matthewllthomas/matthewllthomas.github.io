@@ -88,23 +88,33 @@ subtitle: Presentations
 **Latin American Congress of Probability and Mathematical Statistics (CLAPEM) Conference** <br>
 **Location:** Universidad de Costa Rica, San Jose, Costa Rica <br>
 **Date:** 5th - 9th December 2016 <br>
-**Title 1:** Data Integration Model for Air Quality: A Hierarchical Approach to the Global Estimation of Exposures to Ambient Air Pollution <br>
-**Title 2:** Trends in country-level exposures to particulate matter air pollution
+**Title 1:** Data Integration Model for Air Quality: A Hierarchical Approach to the Global Estimation of Exposures to Ambient Air Pollution <br> 
+**Abstract:** ([Link](2016/CLAPEM/abstract1.txt)) <br>
+**Talk:** ([Link](2016/CLAPEM/presentation1.pdf))<br>
+**Title 2:** Trends in country-level exposures to particulate matter air pollution <br>
+**Abstract:** ([Link](2016/CLAPEM/abstract2.txt)) <br>
+**Talk:** ([Link](2016/CLAPEM/presentation2.pdf))
 
 **Research Students’ Conference (RSC) 2016** <br>
 **Location:** University College Dublin, Dublin, Ireland <br>
 **Date:** 14th - 16th June 2016 <br>
-**Title:** Global modelling of air pollution using multiple data sources
+**Title:** Global modelling of air pollution using multiple data sources <br>
+**Abstract:** ([Link](2016/RSC/abstract.txt)) <br>
+**Talk:** ([Link](2016/RSC/presentation.pdf))
 
 **Bath Numerical Analysis Seminar** <br>
 **Location:** University of Bath, Bath, UK <br>
 **Date:** 8th April 2016 <br>
-**Title:** The Numerical Analysts Guide to Approximate Bayesian Inference
+**Title:** The Numerical Analysts Guide to Approximate Bayesian Inference <br>
+**Abstract:** ([Link](2016/NAS/abstract.txt)) <br>
+**Talk:** ([Link](2016/NAS/presentation.pdf))
 
 **Bath-UNAM-CIMAT (BUC) 2 Conference** <br>
 **Location:**  Universidad Nacional Autónoma de México (UNAM) México <br>
 **Date:** 24th February 2016 <br>
-**Title:** Global modelling of air pollution using multiple data sources
+**Title:** Global modelling of air pollution using multiple data sources <br>
+**Abstract:** ([Link](2016/BUC2/abstract.txt)) <br>
+**Talk:** ([Link](2016/BUC2/presentation.pdf))
 
 ### 2015
 
