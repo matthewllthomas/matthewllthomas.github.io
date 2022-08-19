@@ -12,7 +12,7 @@ subtitle: Presentations
 **Location: University of Manchester, Manchester, UK** <br>
 **Date:** 27th-28th July 2022<br>
 **Title:** Data Integration Model for Exposures (DIMEX-UK)<br>
-**Links:**[Talk](2022/JCEEI/presentation.pdf)
+**Links:** [Talk](2022/JCEEI/presentation.pdf)
 
 ### 2021
 
@@ -28,13 +28,13 @@ subtitle: Presentations
 **Location: Online** <br>
 **Date:** 17th-18th December 2020<br>
 **Title:** Estimating the male circumcision rates for the evaluation of public health programmes in South Africa<br>
-**Links:**[Talk](2020/JCEEI/poster.pdf)
+**Links:** [Talk](2020/JCEEI/poster.pdf)
 
 **UNAIDS Reference Group Meeting** <br>
 **Location: Online** <br>
 **Date:** 20th-24th April 2020 <br>
 **Title:** Estimating the male circumcision rates for the evaluation of public health programmes in South Africa <br>
-**Links:**[Talk](2020/UNAIDS/presentation.pdf)
+**Links:** [Talk](2020/UNAIDS/presentation.pdf)
 
 ### 2019
 
@@ -48,7 +48,7 @@ subtitle: Presentations
 **Location: Avenir Health, Connecticut, US** <br>
 **Date:** 6th-10th May 2019 <br>
 **Title:** Estimating anti-retroviral treatment coverage using facility level data <br>
-**Links:**[Talk](2019/UNAIDS/presentation.pdf)
+**Links:** [Talk](2019/UNAIDS/presentation.pdf)
 
 
 ### 2018
