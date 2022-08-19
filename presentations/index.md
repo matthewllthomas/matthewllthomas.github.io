@@ -89,32 +89,27 @@ subtitle: Presentations
 **Location:** Universidad de Costa Rica, San Jose, Costa Rica <br>
 **Date:** 5th - 9th December 2016 <br>
 **Title 1:** Data Integration Model for Air Quality: A Hierarchical Approach to the Global Estimation of Exposures to Ambient Air Pollution <br> 
-**Abstract:** ([Link](2016/CLAPEM/abstract1.txt)) <br>
-**Talk:** ([Link](2016/CLAPEM/presentation1.pdf))<br>
+**Links:** [Abstract](2016/CLAPEM/abstract1.txt), [Poster](2016/CLAPEM/presentation1.pdf) <br>
 **Title 2:** Trends in country-level exposures to particulate matter air pollution <br>
-**Abstract:** ([Link](2016/CLAPEM/abstract2.txt)) <br>
-**Talk:** ([Link](2016/CLAPEM/presentation2.pdf))
+**Links:** [Abstract](2016/CLAPEM/abstract2.txt), [Poster](2016/CLAPEM/presentation2.pdf)
 
 **Research Students’ Conference (RSC) 2016** <br>
 **Location:** University College Dublin, Dublin, Ireland <br>
 **Date:** 14th - 16th June 2016 <br>
 **Title:** Global modelling of air pollution using multiple data sources <br>
-**Abstract:** ([Link](2016/RSC/abstract.txt)) <br>
-**Talk:** ([Link](2016/RSC/presentation.pdf))
+**Links:** [Abstract](2016/RSC/abstract.txt), [Talk](2016/RSC/presentation.pdf)
 
 **Bath Numerical Analysis Seminar** <br>
 **Location:** University of Bath, Bath, UK <br>
 **Date:** 8th April 2016 <br>
 **Title:** The Numerical Analysts Guide to Approximate Bayesian Inference <br>
-**Abstract:** ([Link](2016/NAS/abstract.txt)) <br>
-**Talk:** ([Link](2016/NAS/presentation.pdf))
+**Links:** [Abstract](2016/NAS/abstract.txt), [Talk](2016/NAS/presentation.pdf)
 
 **Bath-UNAM-CIMAT (BUC) 2 Conference** <br>
 **Location:**  Universidad Nacional Autónoma de México (UNAM) México <br>
 **Date:** 24th February 2016 <br>
 **Title:** Global modelling of air pollution using multiple data sources <br>
-**Abstract:** ([Link](2016/BUC2/abstract.txt)) <br>
-**Talk:** ([Link](2016/BUC2/presentation.pdf))
+**Links:** [Abstract](2016/BUC2/abstract.txt), [Talk](2016/BUC2/presentation.pdf)
 
 ### 2015
 
@@ -122,14 +117,12 @@ subtitle: Presentations
 **Location:** Centro de Investigación en Matemáticas (CIMAT) México <br>
 **Date:** 11th November 2015 <br>
 **Title:** Global modelling of air pollution using multiple data sources <br>
-**Abstract:** ([Link](2015/BUC1/abstract.txt)) <br>
-**Talk:** ([Link](2015/BUC1/presentation.pdf))
+**Links:** [Abstract](2015/BUC1/abstract.txt), [Talk](2015/BUC1/presentation.pdf)
 
 **Bath Institute of Mathematical Innovation (IMI) Launch** <br>
 **Location:** University of Bath, Bath, UK <br>
 **Date:** 28th October 2015 <br>
-**Title:** How an Industrial Placement Influenced Me <br>
-**Talk:** ([Link](2015/IMI/presentation.pdf))
+**Links:** [Talk](2015/IMI/presentation.pdf)
 
 
 
