@@ -66,22 +66,26 @@ subtitle: Presentations
 **GEOMED Conference 2017** <br>
 **Location:** Universidade do Porto, Porto, Portugal <br>
 **Date:** 7th - 9th September 2017 <br>
-**Title:** Data Integration for high-resolution continental-scale estimation of air pollution concentrations
+**Title:** Data Integration for high-resolution continental-scale estimation of air pollution concentrations<br>
+**Links:** [Abstract](2017/GEOMED/abstract.txt), [Talk](2017/GEOMED/poster.pdf)
 
 **Bath-UNAM-CIMAT (BUC) X Conference** <br>
 **Location:**  Universidad Nacional Autónoma de México (UNAM) México <br>
 **Date:** 9th August 2017 <br>
-**Title:** Data Integration for high-resolution continental-scale estimation of air pollution concentrations
+**Title:** Data Integration for high-resolution continental-scale estimation of air pollution concentrations<br>
+**Links:** [Abstract](2017/BUCX/abstract.txt), [Talk](2017/BUCX/presentation.pdf)
 
 **SAMBa Summer Conference 2017** <br>
 **Location:** University of Bath, Bath, UK  <br>
 **Date:** 20th - 21st June 2017 <br>
-**Title:** Data Integration Model for Air Quality: A Hierarchical Approach to the Global Estimation of Exposures to Ambient Air Pollution
+**Title:** Data Integration Model for Air Quality: A Hierarchical Approach to the Global Estimation of Exposures to Ambient Air Pollution<br>
+**Links:** [Abstract](2017/SAMBa/abstract.txt), [Talk](2017/SAMBa/presentation.pdf)
 
 **Bath High Perfomance Computing (HPC) Conference 2017** <br>
 **Location:** University of Bath, Bath, UK <br>
 **Date:** 12th June 2017 <br>
-**Title:** Global Estimation of Air Quality
+**Title:** Global Estimation of Air Quality<br>
+**Links:** [Abstract](2017/HPC/abstract.txt), [Talk](2017/HPC/presentation.pdf)
 
 ### 2016
 
