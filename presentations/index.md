@@ -38,7 +38,7 @@ subtitle: Presentations
 
 ### 2019
 
-**GEOMED** <br>
+**GEOMED Conference 2019** <br>
 **Location: University of Glasgow, Glasgow, UK** <br>
 **Date:** 27th-29th August 2019 <br>
 **Title:** Data integration for high–resolution, continental–scale estimation of air pollution concentrations <br>
