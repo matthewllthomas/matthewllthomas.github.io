@@ -15,6 +15,7 @@ Here is a list of the locations I have visited recently:
 ### 2022
 
 * Canada (Vancouver)
+* Spain (Valencia)
 * Switzerland (Geneva)
 
 ### 2019

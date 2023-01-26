@@ -10,7 +10,11 @@ Below is a summary of the publications I have co-authored. If you want to discus
 
 ## Under review
 
-* **Thomas, M. L.**, Zuma, K., Loykissoonlal, D., Dube, B., Vranken, P., Porter, S. E., Kripke, K., Seatlhodi, T., Meyer-Rath, G., Johnson, L. F., Eaton, J. W.  A multi-level model for estimating region-age-time-type specific male circumcision coverage from household survey and health system data in South Africa. _Submitted to the Journal of the Royal Statistical Society: Series C (Applied Statistics)_ ([Link to preprint](https://arxiv.org/abs/2108.09142))
+* *Thomas, M. L.*, Zuma, K., Loykissoonlal, D., Dube, B., Vranken, P., Porter, S. E., Kripke, K., Seatlhodi, T., Meyer-Rath, G., Johnson, L. F., Eaton, J. W. District-level coverage and rates of medical and traditional male circumcision in South Africa: A competing-risks time-to-event model for household survey and health system data _Submitted to PLOS Medicine_ ([Link to preprint](https://arxiv.org/abs/2108.09142))
+
+## Accepted 
+
+* *Thomas, M. L.*, Shaddick, S., Topping, D., Morrissey, K., Bannan, T. J., Diessner, M., Bowyer, R. C. E., Siegert, S., Coe, H., Evans, J. Benitez-Paez, F., Zidek, J. V.  (2023) A Data Integration Approach to Estimating Personal Exposures to Air Pollution. _To appear in IEEE Big Data_ 
 
 ## Published 
 

@@ -15,6 +15,9 @@ Below is a summary of my undergraduate and postgraduate teaching experience.
 
 | Year        | Semester          | Module |
 |:-------------|:--------------|:------|
+| 2022-23  | Autumn     | [MTH1004 - Probability, Statistics and Data](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2022/index.php/?moduleCode=MTH1004) (Tutorials)|
+|                 | Spring      | [MTH1004 - Probability, Statistics and Data](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2022/index.php/?moduleCode=MTH1004) (Tutorials)||
+|                 |                 | [MTHM506/COMM511 - Statistical Data Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2022/index.php/?moduleCode=MTHM506)  |
 | 2021-22  | Autumn     | [MTHM503 - Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM503)  |
 |                | Spring       | [MTHM506/COMM511 - Statistical Data Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM506)  |
 |                |                   | [MTH3012/ECMM449/ECM3904 - Advanced Statistical Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2020/index.php/?moduleCode=MTH3012)   |
@@ -34,7 +37,8 @@ Below is a summary of various short-courses I have (helped) plan, prepare and de
 
 | Year        | Short-course |
 |:-------------|:--------------|:------------------------------------------------------------------------------------------------------------|
-| 2022        | _Introduction to Statistical Machine Learning_ <br>British Lithium, UK. |
+| 2022        | _NASA Space Apps Bootcamps_ <br> Met Office, UK. |
+|                 | _Introduction to Statistical Machine Learning_ <br>British Lithium, UK. |
 |                 | _Environmental Intelligence: Methods and Models (Part II)_ <br> University of Exeter, UK. |
 | 2021        | _Environmental Intelligence: Methods and Models (Part I)_ <br> University of Exeter, UK. |
 | 2018        | _Environment and health impact assessment in industrially contaminated sites._ <br> WHO Capacity Building program, Belgrade, Serbia. |

@@ -6,6 +6,14 @@ subtitle: Presentations
 
 # Presentations 
 
+### 2023
+
+**HIV Inference Group Meeting** <br>
+**Location: Imperial College London, London, UK** <br>
+**Date:** 10th January 2023<br>
+**Title:** Constructing a wealth index for socio-economic modelling in South Africa<br>
+**Links:** [Talk](2023/HIVGroup/presentation.pdf)
+
 ### 2022
 
 **Joint JCEEI-UoM Meeting** <br>
