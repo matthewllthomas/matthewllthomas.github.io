@@ -7,8 +7,6 @@ title: Dr. Matthew Thomas
 
 I am passionate about teaching, and have been lucky to have taught a considerable amount throughout my career to both undergraduate and postgraduate students as well as delivering short courses to public health officials, policy makers and researchers with external partners. I have prepared, planned and delivered content to participants with a range of skills and abilities, both inside and outside of a university environment. 
 
-I am currently part of the team delivering the [MSc in Applied Data Science and Statistics](https://www.exeter.ac.uk/postgraduate/taught/datascience/applieddatamsc/) and am the Programme Director of the new [MSc in Environmental Intelligence](https://www.exeter.ac.uk/postgraduate/courses/datascience/envint/) due to start in October 2023. 
-
 ## Lecturing and tutorials 
 
 Below is a summary of my undergraduate and postgraduate teaching experience. 
