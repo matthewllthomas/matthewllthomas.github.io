@@ -1,4 +1,4 @@
-=---
+---
 layout: default
 title: Dr. Matthew Thomas
 subtitle: Publications
