@@ -1,4 +1,4 @@
----
+=---
 layout: default
 title: Dr. Matthew Thomas
 subtitle: Publications
@@ -10,14 +10,11 @@ Below is a summary of the publications I have co-authored. If you want to discus
 
 ## Under review
 
-* *Thomas, M. L.*, Zuma, K., Loykissoonlal, D., Dube, B., Vranken, P., Porter, S. E., Kripke, K., Seatlhodi, T., Meyer-Rath, G., Johnson, L. F., Eaton, J. W. District-level coverage and rates of medical and traditional male circumcision in South Africa: A competing-risks time-to-event model for household survey and health system data _Submitted to PLOS Medicine_ ([Link to preprint](https://arxiv.org/abs/2108.09142))
-
-## Accepted 
-
-* *Thomas, M. L.*, Shaddick, S., Topping, D., Morrissey, K., Bannan, T. J., Diessner, M., Bowyer, R. C. E., Siegert, S., Coe, H., Evans, J. Benitez-Paez, F., Zidek, J. V.  (2023) A Data Integration Approach to Estimating Personal Exposures to Air Pollution. _To appear in IEEE Big Data_ 
+* **Thomas, M. L.**, Zuma, K., Loykissoonlal, D., Dube, B., Vranken, P., Porter, S. E., Kripke, K., Seatlhodi, T., Meyer-Rath, G., Johnson, L. F., Eaton, J. W. District-level coverage and rates of medical and traditional male circumcision in South Africa: A competing-risks time-to-event model for household survey and health system data _Submitted to Nature Communications Medicine_ ([Link to preprint](https://arxiv.org/abs/2108.09142))
 
 ## Published 
 
+* **Thomas, M. L.**, Shaddick, S., Topping, D., Morrissey, K., Bannan, T. J., Diessner, M., Bowyer, R. C. E., Siegert, S., Coe, H., Evans, J., Benitez-Paez, F., Zidek, J. V. (2023) A Data Integration Approach to Estimating Personal Exposures to Air Pollution. _In 2022 IEEE International Conference on Big Data (Big Data)_ pp. 4551-4559. IEEE. ([Link](https://ieeexplore.ieee.org/abstract/document/10020701))
 * Jia, K. M., Eilerts, H., Edun O., Howes, A. T., Lam, K., **Thomas, M. L.** and Eaton, J. W. (2022) Risk scores for predicting HIV incidence among general population in sub-Saharan Africa: a systematic review. _Journal of the International AIDS Society_ **24**:e25861. ([Link](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8743366/))
 * Eaton, J. W., Dwyer-Lindgren, L., Gutreuter, S., O'Driscoll, M., Stevens, O., Bajaj, S., Ashton, R., Hill, A., Russell, E., Esra, R., Dolan, N., Anifowoshe, Y. L., Fellows, I., Glaubius, R., Haeuser, E., Okonek, T., Stover, J., **Thomas, M. L.**, Wakefield, J., Wolock, T., Berry, J., Sabala, T., Heard, N., Delgado, S., Pantazis, A., Jahn, A., Kalua, T., Chimpandule, T., Auld, A., Kim, E., Payne, D., Johnson, L. F., Fitzjohn, R., Wankyeki, I., Mahy, M., Shiraishi, R. (2021) Naomi: A New Modelling Tool for Estimating HIV Epidemic Indicators at the District Level in Sub-Saharan Africa. _Journal of the International AIDS Society_ **24**(S5):e25788. ([Link](https://onlinelibrary.wiley.com/doi/full/10.1002/jia2.25788))
 * **Thomas, M. L.**, Shaddick, G., Charlton, R., Cavill, C., Holland, R., Iannone, F., Lapadula, G., Lopriore, S., Z\'avada, Z., Uher, M., Pavelka, K., Szczokova, L., Sidiropolous, P., Flouri, I., M&#246;ller, B., Nissen, M. J., Mueller, R. B., Scherer, A., McHugh N., and Nightingale, A. (2020) Tumour Necrosis Factor Inhibitor monotherapy versus combination therapy with conventional synthetic disease-modifying anti-rheumatic drugs for the treatment of psoriatic arthritis: a combined analysis of European biologics databases. _The Journal of Rheumatology._ **47**(6): 1923-1924. ([Link](https://www.jrheum.org/content/48/1/48.abstract))

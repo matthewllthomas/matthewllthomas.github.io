@@ -16,7 +16,7 @@ Below is a summary of my undergraduate and postgraduate teaching experience.
 | Year        | Semester          | Module |
 |:-------------|:--------------|:------|
 | 2022-23  | Autumn     | [MTH1004 - Probability, Statistics and Data](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2022/index.php/?moduleCode=MTH1004) (Tutorials)|
-|                 | Spring      | [MTH1004 - Probability, Statistics and Data](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2022/index.php/?moduleCode=MTH1004) (Tutorials)||
+|                 | Spring      | [MTH1004 - Probability, Statistics and Data](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2022/index.php/?moduleCode=MTH1004) (Tutorials)|
 |                 |                 | [MTHM506/COMM511 - Statistical Data Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2022/index.php/?moduleCode=MTHM506)  |
 | 2021-22  | Autumn     | [MTHM503 - Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM503)  |
 |                | Spring       | [MTHM506/COMM511 - Statistical Data Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM506)  |
