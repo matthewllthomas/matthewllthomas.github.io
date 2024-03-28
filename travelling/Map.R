@@ -50,7 +50,20 @@ ggplot() +
 dev.off()
 
 
-
+png('Map.png', width = 13.5, height = 6, units = 'in', res = 300)
+ggplot() + 
+  geom_sf(data = WHO_map,
+          size = 0.15,
+          aes(fill = as.factor(flag))) + 
+  geom_sf(data = WHO_regions,
+          size = 0.15, 
+          fill = 'white') + 
+  scale_fill_manual(values = c('lightgrey', 'skyblue')) + 
+  theme_minimal() + 
+  theme(panel.grid = element_blank(),
+        axis.text = element_blank(),
+        legend.position = 'none')
+dev.off()
 
 
 
