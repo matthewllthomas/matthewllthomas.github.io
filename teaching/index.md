@@ -13,23 +13,22 @@ Below is a summary of my undergraduate and postgraduate teaching experience.
 
 | Year        | Semester          | Module |
 |:-------------|:--------------|:------|
-| 2023-24  | Both.         | EART29200 - Professional Development and Project Preparation (Tutorials) |
-|                | Spring       | [EART11200 - Natural Scientists Toolkit: Maths & Physics](https://www.manchester.ac.uk/study/undergraduate/courses/2025/12124/bsc-environmental-science/course-details/EART11200#course-unit-details) |
-| 2022-23  | Autumn     | [MTH1004 - Probability, Statistics and Data](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2022/index.php/?moduleCode=MTH1004) (Tutorials)|
-|                 | Spring      | [MTH1004 - Probability, Statistics and Data](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2022/index.php/?moduleCode=MTH1004) (Tutorials)|
-|                 |                 | [MTHM506/COMM511 - Statistical Data Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2022/index.php/?moduleCode=MTHM506)  |
-| 2021-22  | Autumn     | [MTHM503 - Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM503)  |
-|                | Spring       | [MTHM506/COMM511 - Statistical Data Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM506)  |
-|                |                   | [MTH3012/ECMM449/ECM3904 - Advanced Statistical Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2020/index.php/?moduleCode=MTH3012)   |
-|                | Summer    | [MTHM506J - Statistical Data Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM506)   |
-| 2020-21  | Autumn     | [MTHM503 - Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2020/index.php/?moduleCode=MTHM503)  |
-|                | Spring       | [MTHM503J - Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2020/index.php/?moduleCode=MTHM503)  |
-| 2019-20  | Autumn     | [MTHM503 - Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2019/index.php/?moduleCode=MTHM503)  |
-|                 |                | [SPH001 - Intro to Statistical Thinking and Data Analysis](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiHgp_z5of5AhVIgFwKHckVD-AQFnoECBEQAQ&url=https%3A%2F%2Fwww.imperial.ac.uk%2Fmedia%2Fimperial-college%2Fmedicine%2Fsph%2Fstudy%2Fmodule-outlines%2Fhda%2FIntro-to-Stat-Thinking-and-Data-Analysis-Module-Outline-2019.20-Updated.docx&usg=AOvVaw3Esow9eU9hUZPlVMXEKyUk)  (Tutorials)     |
+| 2023-24  | Both          | EART29200: Professional Development and Project Preparation (Tutorials) |
+|                | Spring       | [EART11200: Natural Scientists Toolkit - Maths & Physics](https://www.manchester.ac.uk/study/undergraduate/courses/2025/12124/bsc-environmental-science/course-details/EART11200#course-unit-details) |
+| 2022-23  | Both.         | [MTH1004: Probability, Statistics and Data](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2022/index.php/?moduleCode=MTH1004) (Tutorials)|
+|                 | Spring      | [MTHM506/COMM511: Statistical Data Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2022/index.php/?moduleCode=MTHM506)  |
+| 2021-22  | Autumn     | [MTHM503: Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM503)  |
+|                | Spring       | [MTHM506/COMM511: Statistical Data Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM506)  |
+|                |                   | [MTH3012/ECMM449/ECM3904: Advanced Statistical Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2020/index.php/?moduleCode=MTH3012)   |
+|                | Summer    | [MTHM506J: Statistical Data Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM506)   |
+| 2020-21  | Autumn     | [MTHM503: Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2020/index.php/?moduleCode=MTHM503)  |
+|                | Spring       | [MTHM503J: Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2020/index.php/?moduleCode=MTHM503)  |
+| 2019-20  | Autumn     | [MTHM503: Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2019/index.php/?moduleCode=MTHM503)  |
+|                 |                | [SPH001: Intro to Statistical Thinking and Data Analysis](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiHgp_z5of5AhVIgFwKHckVD-AQFnoECBEQAQ&url=https%3A%2F%2Fwww.imperial.ac.uk%2Fmedia%2Fimperial-college%2Fmedicine%2Fsph%2Fstudy%2Fmodule-outlines%2Fhda%2FIntro-to-Stat-Thinking-and-Data-Analysis-Module-Outline-2019.20-Updated.docx&usg=AOvVaw3Esow9eU9hUZPlVMXEKyUk)  (Tutorials)     |
 | 2018-19  | Autumn     | Statistical Modelling (as part of [MSc Data Science Professional](https://www.exeter.ac.uk/study/degreeapprenticeships/programmes/researchscientist/)) |
-| 2016-17  | Autumn     | [MA10213 - Business Data Analysis](https://www.bath.ac.uk/catalogues/2016-2017/ma/MA10213.html)  (Practicals)   |
-|                | Summer    | [MA10214 - Quantitative Methods](https://www.bath.ac.uk/catalogues/2016-2017/ma/MA10214.html) (Tutorials) |
-| 2015-16  | Autumn     | [MA10213 - Business Data Analysis](https://www.bath.ac.uk/catalogues/2015-2016/ma/MA10213.html) (Practicals)   |
+| 2016-17  | Autumn     | [MA10213: Business Data Analysis](https://www.bath.ac.uk/catalogues/2016-2017/ma/MA10213.html)  (Practicals)   |
+|                | Summer    | [MA10214: Quantitative Methods](https://www.bath.ac.uk/catalogues/2016-2017/ma/MA10214.html) (Tutorials) |
+| 2015-16  | Autumn     | [MA10213: Business Data Analysis](https://www.bath.ac.uk/catalogues/2015-2016/ma/MA10213.html) (Practicals)   |
 
 ## Short-courses
 
