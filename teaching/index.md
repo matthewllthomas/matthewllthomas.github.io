@@ -13,6 +13,8 @@ Below is a summary of my undergraduate and postgraduate teaching experience.
 
 | Year        | Semester          | Module |
 |:-------------|:--------------|:------|
+| 2023-24  | Both.         | EART29200 - Professional Development and Project Preparation (Tutorials) |
+|                | Spring       | [EART11200 - Natural Scientists Toolkit: Maths & Physics](https://www.manchester.ac.uk/study/undergraduate/courses/2025/12124/bsc-environmental-science/course-details/EART11200#course-unit-details) |
 | 2022-23  | Autumn     | [MTH1004 - Probability, Statistics and Data](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2022/index.php/?moduleCode=MTH1004) (Tutorials)|
 |                 | Spring      | [MTH1004 - Probability, Statistics and Data](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2022/index.php/?moduleCode=MTH1004) (Tutorials)|
 |                 |                 | [MTHM506/COMM511 - Statistical Data Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2022/index.php/?moduleCode=MTHM506)  |
