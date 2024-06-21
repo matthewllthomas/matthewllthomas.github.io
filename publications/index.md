@@ -8,6 +8,10 @@ subtitle: Publications
 
 Below is a summary of the publications I have co-authored. If you want to discuss any of them, feel free to get in touch. 
 
+## Accepted 
+
+* Hyman, S., Zhang, J., Lim, Y.-H., Jovanovic Andersen, Z., Cole-Hunter, T., Li, Y., Moller, P., Daras, K., Williams, R., **Thomas, M. L.**, Labib, S. M., Topping, D. (2024) Residential Greenspace and COVID-19 Severity: A Cohort Study of 313,657 Individuals in Greater Manchester, United Kingdom. _Accepted in Environment International_ 
+
 ## Published 
 
 * **Thomas, M. L.**, Zuma, K., Loykissoonlal, D., Dube, B., Vranken, P., Porter, S. E., Kripke, K., Seatlhodi, T., Meyer-Rath, G., Johnson, L. F., Eaton, J. W. District-level coverage and rates of medical and traditional male circumcision in South Africa: A competing-risks time-to-event model for household survey and health system data _Communications Medicine_, 4(1), 1. ([Link](https://www.nature.com/articles/s43856-023-00405-7))

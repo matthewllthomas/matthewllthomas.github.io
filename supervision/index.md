@@ -10,11 +10,11 @@ A list of my supervisory experience is below. If you are a student and are inter
 
 ## PhD students
 
+I am always interested in speaking to motivated students about the potential to supervise them, please do get in touch. 
+
 | Year        | Project         |
 |:-------------|:--------------| 
-| 2023-Present  | Samuel Hyman (Co-supervisor, 50\%)  <br> Project: “ How Particulate Matter Affects Lung Infection and Immune Response”. |
-
-I am always interested in speaking to motivated students about the potential to supervise them, please do get in touch. 
+| 2023-Present  | Samuel Hyman (Co-supervisor, 50%)  <br> Project: “How Particulate Matter Affects Lung Infection and Immune Response”. |
 
 ## Masters students
 
