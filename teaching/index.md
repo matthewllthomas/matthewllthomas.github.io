@@ -13,8 +13,11 @@ Below is a summary of my undergraduate and postgraduate teaching experience.
 
 | Year        | Semester          | Module |
 |:-------------|:--------------|:------|
+| 2024-25  | Both          | EART29200: Professional Development and Project Preparation (Tutorials) |
+|                | Autumn     | [DATA70121: Statistics and Machine Learning 1 - Statistical Foundations](https://www.manchester.ac.uk/study/masters/courses/list/18096/msc-data-science-earth-and-environmental-analytics/course-details/DATA70121#course-unit-details) (Lecturer, 33%) |
+|                | Spring       | [EART11200: Natural Scientists Toolkit - Maths & Physics](https://www.manchester.ac.uk/study/undergraduate/courses/2025/12124/bsc-environmental-science/course-details/EART11200#course-unit-details) (Lecturer)  |
 | 2023-24  | Both          | EART29200: Professional Development and Project Preparation (Tutorials) |
-|                | Spring       | [EART11200: Natural Scientists Toolkit - Maths & Physics](https://www.manchester.ac.uk/study/undergraduate/courses/2025/12124/bsc-environmental-science/course-details/EART11200#course-unit-details) |
+|                | Spring       | [EART11200: Natural Scientists Toolkit - Maths & Physics](https://www.manchester.ac.uk/study/undergraduate/courses/2025/12124/bsc-environmental-science/course-details/EART11200#course-unit-details) (Lecturer, 50%) |
 | 2022-23  | Both.         | [MTH1004: Probability, Statistics and Data](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2022/index.php/?moduleCode=MTH1004) (Tutorials)|
 |                 | Spring      | [MTHM506/COMM511: Statistical Data Modelling](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2022/index.php/?moduleCode=MTHM506)  |
 | 2021-22  | Autumn     | [MTHM503: Applications of Data Science and Statistics](https://intranet.exeter.ac.uk/emps/studentinfo/subjects/mathematics/modules/2021/index.php/?moduleCode=MTHM503)  |

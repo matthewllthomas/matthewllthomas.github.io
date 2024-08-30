@@ -6,7 +6,39 @@ subtitle: Presentations
 
 # Presentations 
 
+### 2024
+
+**GEOMED Conference 2024** <br>
+**Location: University of Hasselt, Hasselt, Belgium** <br>
+**Date:** 9th-11th September 2024<br>
+**Title:** Substantial but spatially heterogeneous progress in male circumcision for HIV prevention in South Africa <br>
+**Links:** [Talk](2024/GEOMED/poster.pdf)
+
+**National Centre for Atmospheric Sciences Annual Staff Meeting 2024** <br>
+**Location: Winter Gardens Conference Centre, Blackpool, UK** <br>
+**Date:** 1st-3rd July 2024<br>
+**Title:** Global Estimation of Air Quality and the Burden of Disease associated with Ambient Air Pollution <br>
+**Links:** [Talk](2024/NCASMeeting/presentation.pdf)
+
+**Manchester Environmental Research Institute - Environment and Health Symposium** <br>
+**Location: University of Manchester, Manchester, UK** <br>
+**Date:** 13th June 2024<br>
+**Title:** Data Integration Approaches to Estimate Exposures to Air Pollution<br>
+**Links:** [Talk](2024/MERIWorkshop/presentation.pdf)
+
 ### 2023
+
+**2023 UKHSA Annual Outdoor and Indoor Air Pollution Research Review Meeting** <br>
+**Location: Chamber Space, Manchester, UK** <br>
+**Date:** 5th December 2023<br>
+**Title:** A Data Integration Approach to Estimating Personal Exposures to Air Pollution<br>
+**Links:** [Talk](2023/UKHSA/presentation.pdf)
+
+**Sustainable Futures Health in the Built Environment: An Interdisciplinary Workshop** <br>
+**Location: University of Manchester, Manchester, UK** <br>
+**Date:** 8th November 2023<br>
+**Title:** A brief introduction to my research<br>
+**Links:** [Talk](2023/HealthWorkshop/presentation.pdf)
 
 **HIV Inference Group Meeting** <br>
 **Location: Imperial College London, London, UK** <br>

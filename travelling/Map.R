@@ -17,8 +17,8 @@ setwd('~/Dropbox/Github/matthewllthomas.github.io/travelling/')
 source('~/Dropbox/Github/WHO2021/0_Source.R')
 
 # List of countries visited
-lst <- c('Canada', 'China', 'Costa Rica', 'Croatia', 'Estonia', 'France', 'Germany', 
-         'Greece', 'Ireland', 'Italy', 'Latvia', 'Mexico', 'Mongolia', 'Portugal', 
+lst <- c('Belgium', 'Canada', 'China', 'Costa Rica', 'Croatia', 'Estonia', 'France', 'Germany', 
+         'Greece', 'Ireland', 'Italy', 'Latvia', 'Malta', 'Mexico', 'Mongolia', 'Portugal', 
          'Romania', 'Serbia', 'Spain', 'Switzerland',
          'United Kingdom of Great Britain and Northern Ireland',
          'United States of America')
@@ -37,10 +37,10 @@ WHO_regions <- st_as_sf(WHO_regions)
 pdf('Map.pdf', width = 13.5, height = 6)
 ggplot() + 
   geom_sf(data = WHO_map,
-          size = 0.15,
+          linewidth = 0.05,
           aes(fill = as.factor(flag))) + 
   geom_sf(data = WHO_regions,
-          size = 0.15, 
+          linewidth = 0.05, 
           fill = 'white') + 
   scale_fill_manual(values = c('lightgrey', 'skyblue')) + 
   theme_minimal() + 

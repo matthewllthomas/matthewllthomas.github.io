@@ -12,6 +12,11 @@ I have a keen interest in travel, which I'm starting to pick up again now that w
 
 Here is a list of the locations I have visited recently:
 
+### 2024
+
+* Hasselt (Belgium)
+* Melleha (Malta)
+
 ### 2022
 
 * Canada (Vancouver)
