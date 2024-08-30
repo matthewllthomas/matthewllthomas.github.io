@@ -6,7 +6,7 @@ subtitle: Travelling
 
 # Travelling
 
-I have a keen interest in travel, which I'm starting to pick up again now that we are emerging from the pandemic. So, far the countries I have visited are Canada, China, Costa Rica, Croatia, Estonia, France, Germany, Greece, Ireland, Italy, Latvia, Mexico, Mongolia, Portugal, Romania, Serbia, Spain, Switzerland, United Kingdom, United States of America. 
+I have a keen interest in travel, which I'm starting to pick up again now that we are emerging from the pandemic. So, far the countries I have visited are Belgium, Canada, China, Costa Rica, Croatia, Estonia, France, Germany, Greece, Ireland, Italy, Latvia, Malta, Mexico, Mongolia, Portugal, Romania, Serbia, Spain, Switzerland, United Kingdom, United States of America. 
 
 <img style="float: center" align="center" src="Map.pdf" alt="A map of countries visited" width = "900" > 
 
