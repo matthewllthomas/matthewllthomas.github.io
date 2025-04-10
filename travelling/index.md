@@ -12,10 +12,15 @@ I have a keen interest in travel, which I'm starting to pick up again now that w
 
 Here is a list of the locations I have visited recently:
 
+
+### 2025
+
+* Colombia (Cartagena)
+
 ### 2024
 
-* Hasselt (Belgium)
-* Melleha (Malta)
+* Belgium (Hasselt)
+* Malta
 
 ### 2022
 

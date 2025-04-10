@@ -17,9 +17,9 @@ setwd('~/Dropbox/Github/matthewllthomas.github.io/travelling/')
 source('~/Dropbox/Github/WHO2021/0_Source.R')
 
 # List of countries visited
-lst <- c('Belgium', 'Canada', 'China', 'Costa Rica', 'Croatia', 'Estonia', 'France', 'Germany', 
-         'Greece', 'Ireland', 'Italy', 'Latvia', 'Malta', 'Mexico', 'Mongolia', 'Portugal', 
-         'Romania', 'Serbia', 'Spain', 'Switzerland',
+lst <- c('Belgium', 'Canada', 'China', 'Colombia', 'Costa Rica', 'Croatia', 'Estonia', 
+         'France', 'Germany', 'Greece', 'Ireland', 'Italy', 'Latvia', 'Malta', 
+         'Mexico', 'Mongolia', 'Portugal', 'Romania', 'Serbia', 'Spain', 'Switzerland',
          'United Kingdom of Great Britain and Northern Ireland',
          'United States of America')
 
