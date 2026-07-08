@@ -8,8 +8,10 @@ subtitle: Publications
 
 Below is a summary of the publications I have co-authored. If you want to discuss any of them, feel free to get in touch. 
 
-## Accepted 
+## Published 
 
+* O'Meara, S. P., Chatzidiakou, L., Shaw, D. R., Cheung, R. W., Yang, T. C., Waiblinger, D., Chopdat, S., Ruangkanit, A., Warburton, T., Shao, Y., **Thomas, M. L.**, Hamilton, J. F., McFiggans, G., McEachan, R. R. C. and Carslaw, N. (2026) An assessment of residence scale residential PM2.5 exposure inaccuracy with a measurement-constrained theoretical model approach. _Atmospheric Environment: X_, **31**, 100471 ([Link](https://www.sciencedirect.com/science/article/pii/S2590162126000596))
+* Zhang, B., Adar, S. D., Nichols, E., Gross, A. L., Shaddick, G., **Thomas, M. L.**, D’Souza, J., Petrosyan, S., Chien, S., Weerman, A., Langa, K. M., Dey, A. B., Dey, S. and Lee, J.  (2025) Particulate air pollution from different emission sources, cognitive performance, and cognitive declines in India. _Environment International_, 108843 ([Link](https://www.sciencedirect.com/science/article/pii/S016041202500577X))
 * Hyman, S., Zhang, J., Lim, Y.-H., Jovanovic Andersen, Z., Cole-Hunter, T., Li, Y., Moller, P., Daras, K., Williams, R., **Thomas, M. L.**, Labib, S. M., Topping, D. (2024) Residential Greenspace and COVID-19 Severity: A Cohort Study of 313,657 Individuals in Greater Manchester, United Kingdom. _Environment International_ 108843. ([Link](https://www.sciencedirect.com/science/article/pii/S016041202400429X))
 * **Thomas, M. L.**, Zuma, K., Loykissoonlal, D., Dube, B., Vranken, P., Porter, S. E., Kripke, K., Seatlhodi, T., Meyer-Rath, G., Johnson, L. F., Eaton, J. W. (2024) District-level coverage and rates of medical and traditional male circumcision in South Africa: A competing-risks time-to-event model for household survey and health system data _Communications Medicine_, 4(1), 1. ([Link](https://www.nature.com/articles/s43856-023-00405-7))
 * **Thomas, M. L.**, Shaddick, S., Topping, D., Morrissey, K., Bannan, T. J., Diessner, M., Bowyer, R. C. E., Siegert, S., Coe, H., Evans, J., Benitez-Paez, F., Zidek, J. V. (2023) A Data Integration Approach to Estimating Personal Exposures to Air Pollution. _In 2022 IEEE International Conference on Big Data (Big Data)_ pp. 4551-4559. IEEE. ([Link](https://ieeexplore.ieee.org/abstract/document/10020701))

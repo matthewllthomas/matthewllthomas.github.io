@@ -14,8 +14,10 @@ I am always interested in speaking to motivated students about the potential to 
 
 | Year        | Project         |
 |:-------------|:--------------| 
-| Sep 2024-Present  | Lauren Stella (Lead supervisor, 50%)  <br> Project: “Combining information from multiple sources to estimate exposures to air pollution”. |
-| Sep 2023-Present  | Samuel Hyman (Co-supervisor, 50%)  <br> Project: “How Particulate Matter Affects Lung Infection and Immune Response”. |
+| Sep 2026 - Present  | Antonio Baratta (Lead supervisor, 40%)  <br> Project: “Moving towards a more personal assessment of exposure to air pollution for cancer patients”. |
+| Sep 2026 - Present  | Amelia Davies (External supervisor, 10%)  <br> Project: “The psychology of outdoor advertising”. |
+| Sep 2024 - Present  | Lauren Stella (Lead supervisor, 50%)  <br> Project: “Combining information from multiple sources to estimate exposures to air pollution”. |
+| Sep 2023 - Sep 2025  | Samuel Hyman (Co-supervisor, 50%)  <br> Project: “How Particulate Matter Affects Lung Infection and Immune Response”. |
 
 ## Masters students
 
@@ -23,7 +25,8 @@ Below is a list of Masters projects that I have supervised.
 
 | Year        | Project         |
 |:-------------|:--------------| 
-| 2024-25  | DATA72000: Extended Research Project.                  <br> Title: Various topics in _"Environmental analytics"_ <br>  Project supervision for X students |
+| 2026-27  | DATA72000: Extended Research Project.                  <br> Title: Various topics in _"Environmental analytics"_ <br>  Project supervision for 2 students | 
+| 2025-26  | DATA72000: Extended Research Project.                  <br> Title: Various topics in _"Environmental analytics"_ <br>  Project supervision for 2 students |
 | 2023-24  | DATA72000: Extended Research Project.                  <br> Title: Various topics in _"Environmental analytics"_ <br>  Project supervision for 5 students |
 | 2022-23  | MTHM044: MMath Project in Statistics.                  <br> Title: _"A comparison of methods to estimate socio-economic well-being in South Africa"_ <br>  Student: Nathan Vince |
 |          | MTHM504J: Applied Data Science and Statistics Project. <br> Title: _"Assessing ambient air pollution in Italy"_ <br> Student: Zareen Tasnim (Awarded Dean's MSc Project Award) |
